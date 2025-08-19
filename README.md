@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   
-   <a href="www.instagram.com">
+   <a href="https://www.instagram.com/kawish_098?utm_source=qr&igsh=bzFlanQ4cDJwcGJr">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://www.facebook.com/kawish.kawishmajeed.9">
